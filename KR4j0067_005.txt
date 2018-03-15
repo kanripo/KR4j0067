@@ -6,7 +6,10 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 5
 #+PROPERTY: FILE SB04n0138-005中興以來絶妙詞選-卷五.
+# SB1_2095-048.png
+# page missing
 <pb:KR4j0067_SBCK_005-1a>¶
+# SB1_2095-049.png
 ○惆悵栁烟何處目送落霞江浦明夜月當樓照人¶
 愁¶
 　　江城子(梅花)¶
@@ -40,11 +43,23 @@
 誰知於進士已是故將軍閑坐閑行閑飲酒閑拈閑¶
 字閑文諸公留我笑紛紛一枝簮宝髻六幅舞羅裙¶
 <pb:KR4j0067_SBCK_005-2b>¶
+# SB1_2095-052.png
+# page missing
 <pb:KR4j0067_SBCK_005-2b>¶
+# SB1_2095-053.png
+# page missing
 <pb:KR4j0067_SBCK_005-2b>¶
+# SB1_2095-054.png
+# page missing
 <pb:KR4j0067_SBCK_005-2b>¶
+# SB1_2095-055.png
+# page missing
 <pb:KR4j0067_SBCK_005-2b>¶
+# SB1_2095-056.png
+# page missing
 <pb:KR4j0067_SBCK_005-2b>¶
+# SB1_2095-057.png
+# page missing
 <pb:KR4j0067_SBCK_005-2b>¶
 須殢酒無柰愁深酒淺但&KR0009;興焦琴紈扇莫鼓琵琶¶
 江上曲怕荻花楓葉俱悽怨雲萬疊寸心逺¶
@@ -222,6 +237,8 @@
 他渾不知○冷烟寒食夜淡月棃花下猶自軟心腸¶
 爲他燒夜香¶
 <pb:KR4j0067_SBCK_005-10b>¶
+# SB1_2095-074.png
+# page missing
 <pb:KR4j0067_SBCK_005-10b>¶
 無限意那得如椽彩筆但滿眼西風蕭瑟我𫠦思&KR0006;¶
 何處𫠦在鐔津津上滄湾側誰氏子閬風客○閬風¶
@@ -388,6 +405,8 @@
 上髙樓爲怕見分携處¶
 　　南柯子¶
 <pb:KR4j0067_SBCK_005-18a>¶
+# SB1_2095-090.png
+# page missing
 <pb:KR4j0067_SBCK_005-19a>¶
 曰㱕去來㱕去來&KR0006;吾將安㱕但有東籬菊有西園¶
 桂有南溪月有北山&KR0340;蜂則有房魚還有穴蟻有樓¶
